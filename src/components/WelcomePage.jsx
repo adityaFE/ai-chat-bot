@@ -7,13 +7,13 @@ const WelcomePage = ({onStartChat}) => {
   // Hardcoded content for each page
   const pages = [
     {
-      title: "Welcome to SyfBot",
+      title: "Welcome to GenBot",
       description: "Chat with our friendly and intelligent bot",
       bgColor: "#ffe6f0",
     },
     {
       title: "Stay Connected",
-      description: "Keep in touch with loved ones anytime, anywhere with SyfBot's seamless experience.",
+      description: "Keep in touch with loved ones anytime, anywhere with GenBot's seamless experience.",
       bgColor: "#e6f7ff",
     },
     {
